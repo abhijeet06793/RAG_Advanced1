@@ -15,7 +15,6 @@ from langchain_text_splitters import RecursiveCharacterTextSplitter
 
 import os
 
-os.environ["OPENAI_API_KEY"] = "REMOVED_OPENAI_KEY"
 
 Base = declarative_base()
 
